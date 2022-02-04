@@ -265,4 +265,25 @@ td, th {
 	.lista-beneficios, .imagem-beneficios {
 		width: 100%;
 	}
+
+	.produtos {
+        width: auto;
+    }
+
+    .produtos li {
+        display: block;
+        text-align: center;
+        width: auto;
+        margin: 2% 1.3em;
+        box-sizing: border-box;
+        border-radius: 30px;
+
+    }
+    .formulario {
+        margin: 18px;
+    }
+
+    .enviar {
+        width: 80%;
+    }
 }
